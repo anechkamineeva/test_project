@@ -14,7 +14,7 @@ public class InputConsolMineeva {
 
         String text;
 
-        text= "Сегодня день недели - " + dayw + "  поннастроение - " + nastr;
+        text= "Сегодня день недели - " + dayw + "  настроение - " + nastr;
 
         System.out.println(text);
     }
